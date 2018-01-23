@@ -1,13 +1,14 @@
 {
-  "clubs":[
-    {"id":1,"name":"Liverpol","point":50},
-    {"id":2,"name":"Manchester city","point":70},
-    {"id":3,"name":"Chelsea","point":57}
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-  "users":[
-    {"id":2,"club":1,"name":"Mohamed Salah","goals":18},
-    {"id":3,"club":1,"name":"Firmino","goals":9},
-    {"id":4,"club":2,"name":"Kevin De Bruyne","goals":8},
-    {"id":5,"club":3,"name":"Eden Hazard","goals":10}
-  ]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
