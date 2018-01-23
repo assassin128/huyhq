@@ -1,5 +1,5 @@
 {
-	'clubs': {
+	'clubs': [
 		{
 			'id': 1,
 			'name': 'Liverpol',
@@ -15,8 +15,8 @@
 			'name': 'Chelsea'
 			'point': 57
 		}
-	},
-	'users': {		
+	],
+	'users': [		
 		{
 			'id': 2,
 			'club': 1,
@@ -41,5 +41,5 @@
 			'name': 'Eden Hazard',
 			'goals': 10
 		}
-	}
+	]
 }
