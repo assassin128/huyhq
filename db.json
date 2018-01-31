@@ -9,5 +9,12 @@
     {"id":3,"club":1,"name":"Firmino","goals":9},
     {"id":4,"club":2,"name":"Kevin De Bruyne","goals":8},
     {"id":5,"club":3,"name":"Eden Hazard","goals":10}
+  ],
+  "names": [
+    { "id": 11, "name": "Mr. Nice" },
+    { "id": 12, "name": "Mr. Nice 12" },
+    { "id": 13, "name": "Mr. Nice 13" },
+    { "id": 14, "name": "Mr. Nice 14" },
+    { "id": 15, "name": "Mr. Nice 15" },
   ]
 }
